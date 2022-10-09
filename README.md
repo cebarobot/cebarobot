@@ -1,5 +1,6 @@
 - 👋 Hi, I’m ceba, a graduate student majoring in computer science and technology.
-- 👀 I’m also a radio amateur and my callsign is BI1GHZ.
+- 📻 I’m a radio amateur and my callsign is BI1GHZ.
+- 💾 I'm interested in retro-computing.
 
 <!--
 - 🌱 I’m currently learning ...
